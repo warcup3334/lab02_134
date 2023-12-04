@@ -26,7 +26,7 @@ class FirstPage extends StatelessWidget {
                   Row(
                     children: [
                       Icon(Icons.star, color: Colors.amber),
-                      Text("4.5"), // Replace with your actual rating
+                      Text("4.5"), 
                     ],
                   ),
                 ],
